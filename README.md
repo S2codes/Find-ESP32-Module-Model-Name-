@@ -244,7 +244,3 @@ Interpretation: ESP32-C3 (RISC-V, single core). Different peripheral/cross-compa
 
 ---
 
-## Legal / Safety note (for nRFBox context)
-
-Since you earlier mentioned building **nRFBox**, remember that *jamming*, spoofing or interfering with others’ RF communications may be illegal in many jurisdictions. Use hardware/software only on your own devices, in controlled lab environments, or with explicit permission.
-
